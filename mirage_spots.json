@@ -1,8 +1,32 @@
 {
     "terroristas": [
         {
-            "name" : "window",
-            "image" : ""
+            "name" : "ventana",
+            "image" : "https://raw.githubusercontent.com/AbianS/mapas/master/mirage/spots/terroristas/ventana.jpg"
+        },
+        {
+            "name" : "under",
+            "image" : "https://raw.githubusercontent.com/AbianS/mapas/master/mirage/spots/terroristas/under.jpg"
+        },
+        {
+            "name" : "corta",
+            "image" : "https://raw.githubusercontent.com/AbianS/mapas/master/mirage/spots/terroristas/corta.jpg"
+        },
+        {
+            "name" : "entrada b",
+            "image" : "https://raw.githubusercontent.com/AbianS/mapas/master/mirage/spots/terroristas/entrada_b.jpg"
+        },
+        {
+            "name" : "conector",
+            "image" : "https://raw.githubusercontent.com/AbianS/mapas/master/mirage/spots/terroristas/conector.jpg"
+        },
+        {
+            "name" : "Site A",
+            "image" : "https://raw.githubusercontent.com/AbianS/mapas/master/mirage/spots/terroristas/site_a.jpg"
+        },
+        {
+            "name" : "Site B",
+            "image" : "https://raw.githubusercontent.com/AbianS/mapas/master/mirage/spots/terroristas/site_b.jpg"
         }
     ]
 }
