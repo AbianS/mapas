@@ -9,16 +9,20 @@
             "map": "https://raw.githubusercontent.com/AbianS/mapas/master/inferno.jpg"
         },
         {
-            "name": "mirage",
-            "map": "https://raw.githubusercontent.com/AbianS/mapas/master/mirage.jpg"
+            "name": "inferno",
+            "map": "https://raw.githubusercontent.com/AbianS/mapas/master/inferno.jpg"
         },
-        {
+        {    
             "name": "nuke",
             "map": "https://raw.githubusercontent.com/AbianS/mapas/master/nuke.jpg"
         },
-        {
+        {  
             "name": "overpass",
             "map": "https://raw.githubusercontent.com/AbianS/mapas/master/overpass.jpg"
         }
-    ]
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
 }
