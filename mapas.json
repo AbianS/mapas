@@ -1,1 +1,24 @@
-{"data":[{"name":"inferno","map":"https://raw.githubusercontent.com/AbianS/mapas/master/inferno.jpg"},{"name":"mirage","map":"https://raw.githubusercontent.com/AbianS/mapas/master/mirage.jpg"}, {"name":"nuke","map":"https://raw.githubusercontent.com/AbianS/mapas/master/nuke.jpg"},{"name":"overpass","map":"https://raw.githubusercontent.com/AbianS/mapas/master/overpass.jpg"}]}
+{
+    "data": [
+        {
+            "name": "inferno",
+            "map": "https://raw.githubusercontent.com/AbianS/mapas/master/inferno.jpg"
+        },
+        {
+            "name": "mirage",
+            "map": "https://raw.githubusercontent.com/AbianS/mapas/master/mirage.jpg"
+        },
+        {
+            "name": "nuke",
+            "map": "https://raw.githubusercontent.com/AbianS/mapas/master/nuke.jpg"
+        },
+        {
+            "name": "overpass",
+            "map": "https://raw.githubusercontent.com/AbianS/mapas/master/overpass.jpg"
+        },
+        {
+            "name": "ancient",
+            "map": "https://raw.githubusercontent.com/AbianS/mapas/master/ancient.jpg"
+        }
+    ]
+}
