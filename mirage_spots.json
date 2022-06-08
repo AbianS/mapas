@@ -28,5 +28,31 @@
             "name" : "Site B",
             "image" : "https://raw.githubusercontent.com/AbianS/mapas/master/mirage/spots/terroristas/site_b.jpg"
         }
+    ],
+    "ct": [
+        {
+            "name" : "ventana",
+            "image" : "https://raw.githubusercontent.com/AbianS/mapas/master/mirage/spots/ct/ventana.jpg"
+        },
+        {
+            "name" : "under",
+            "image" : "https://raw.githubusercontent.com/AbianS/mapas/master/mirage/spots/terroristas/under.jpg"
+        },
+        {
+            "name" : "entrada a",
+            "image" : "https://raw.githubusercontent.com/AbianS/mapas/master/mirage/spots/ct/entrada_a.jpg"
+        },
+        {
+            "name" : "palacio",
+            "image" : "https://raw.githubusercontent.com/AbianS/mapas/master/mirage/spots/ct/palacio.jpg"
+        },
+        {
+            "name" : "Site A",
+            "image" : "https://raw.githubusercontent.com/AbianS/mapas/master/mirage/spots/terroristas/site_a.jpg"
+        },
+        {
+            "name" : "Site B",
+            "image" : "https://raw.githubusercontent.com/AbianS/mapas/master/mirage/spots/terroristas/site_b.jpg"
+        }
     ]
 }
